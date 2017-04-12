@@ -1,0 +1,51 @@
+//////////            All pages in pagination
+       /* List<WebElement> allpages = driver.findElements(By.xpath("//ul[@class='pagination ng-scope']//a"));
+        System.out.println("No of pages" +allpages.size());
+        //locating the pagination tab
+        WebElement paginationLink = driver.findElement(By.xpath("//div[@ng-hide=\"$ctrl.pages <= 1\"]//ul"));
+
+        // if the pagination tab displayed then check in each pages
+        if(paginationLink.isDisplayed()){
+            System.out.println("pagination exists check all the pages");
+
+            for( int i=0; i<allpages.size()-2; i++) {
+                WebElement nxtBtn = driver.findElement(By.xpath("//ul[@class='pagination ng-scope']//li[last()]//a"));
+                if (nxtBtn.isEnabled()) {
+                    List<WebElement> allRows = driver.findElements(By.xpath("//table//tr//div[@class='col-md-8']"));
+                    for (int j = 2; j < allRows.size(); j++) {
+                        System.out.println("TEXT :" + allRows.get(j).getText() + " Random Str :" + randomStr);
+                        if (allRows.get(j).getText().contains(randomStr)) {
+                            // Assert.assertEquals(allRows.get(j).getText(), randomStr);
+                            System.out.println("Found newly added Entity " + randomStr +"at" +j +"row");
+                            k=j;
+                            driver.findElement(By.xpath("//table//tr["+j+"]//div[@class='col-md-8']//a")).click();
+                            System.out.println("Newly created entity " + randomStr + "is clicked");
+
+                        }
+                    }
+
+                }
+                System.out.println("Clicking next page, current page:" + i);
+                driver.findElement(By.xpath("//ul[@class='pagination ng-scope']//li[last()]//a")).click();
+
+            }
+
+        }
+        else {
+            List<WebElement> allRows = driver.findElements(By.xpath("//table//tr//div[@class='col-md-8']"));
+            System.out.println(" No of rows found :" + allRows.size());
+
+            for (int j = 2; j < allRows.size(); j++) {
+                System.out.println("TEXT :" + allRows.get(j).getText() + " Random Str :" + randomStr);
+                System.out.println("Row num :" + j);
+                if (allRows.get(j).getText().contains(randomStr)) {
+                    // Assert.assertEquals(allRows.get(j).getText(), randomStr);
+                    System.out.println("Found newly added Entity at" + j +"row");
+                    k=j;
+                    driver.findElement(By.xpath("//table//tr["+j+"]//div[@class='col-md-8']//a")).click();
+                    System.out.println("Newly created entity " + randomStr + "is clicked");
+
+                }
+            }
+
+        } */
