@@ -15,7 +15,7 @@ import pages.HomeLogin;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
 
-/**
+/** Created By Anbu
 TC: Subscription link in Profile panel
  Pre condition:
  1.Login
