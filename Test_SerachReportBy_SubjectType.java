@@ -13,7 +13,8 @@ import sanityCheck.SearchReportBy_SubjectType;
 
 import java.util.concurrent.TimeUnit;
 
-/** TC: Search Reports by SubjectType
+/** Created by Anbu
+TC: Search Reports by SubjectType
   Pre Conditions:
    Login to site
    Create reports with subject Type
