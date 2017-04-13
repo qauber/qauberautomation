@@ -1,13 +1,13 @@
-package test_SanityCheck;
+package test;
 
 import org.testng.annotations.Test;
-import pages.Car;
 import pages.Bmw;
+import pages.Car;
 
 /**
  * Created by anbus on 4/6/2017.
  */
-public class Test_Car  {
+public class Test_Car {
     Car c1;
     Bmw bmw;
 

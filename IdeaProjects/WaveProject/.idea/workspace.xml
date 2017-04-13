@@ -20,11 +20,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Sub_Dept_Helper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/helper/Sub_Dept_Helper.java">
+      <file leaf-file-name="Test_Logo_Leads_Reports.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/test_SanityCheck/Test_Logo_Leads_Reports.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="102" column="0" lean-forward="true" selection-start-line="102" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
+            <state relative-caret-position="131">
+              <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-300">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test_Delete_SubDepartment.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/test_SanityCheck/Test_Delete_SubDepartment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="16" column="19" lean-forward="false" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -33,28 +53,8 @@
       <file leaf-file-name="Test_Edit_SubDepartment.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/test_SanityCheck/Test_Edit_SubDepartment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="91" column="48" lean-forward="true" selection-start-line="91" selection-start-column="48" selection-end-line="91" selection-end-column="48" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Test_ProfileSubscribeLink_CancelSubscription.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/test_SanityCheck/Test_ProfileSubscribeLink_CancelSubscription.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-682">
-              <caret line="63" column="55" lean-forward="false" selection-start-line="63" selection-start-column="55" selection-end-line="63" selection-end-column="55" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Subscription_Helper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/helper/Subscription_Helper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="576">
-              <caret line="71" column="25" lean-forward="false" selection-start-line="71" selection-start-column="25" selection-end-line="71" selection-end-column="25" />
+            <state relative-caret-position="100">
+              <caret line="16" column="19" lean-forward="false" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -78,8 +78,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/test_SanityCheck/SearchReportBy_SubjectType.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sanityCheck/Test_searchReportBy_DateRange.java" />
         <option value="$PROJECT_DIR$/src/test/java/test_RU/TestRU_AddReport.java" />
         <option value="$PROJECT_DIR$/src/main/java/pages/pages_RU/Add_Report.java" />
         <option value="$PROJECT_DIR$/src/test/java/test_SAU/TestAddSubDept.java" />
@@ -92,7 +90,6 @@
         <option value="$PROJECT_DIR$/src/main/java/sanityCheck/Logo_lead_Reports.java" />
         <option value="$PROJECT_DIR$/src/main/java/Anbu.Properties" />
         <option value="$PROJECT_DIR$/src/test/java/test_SanityCheck/TestCases_SubDepartment.java" />
-        <option value="$PROJECT_DIR$/src/test/java/test_SanityCheck/Test_Logo_Leads_Reports.java" />
         <option value="$PROJECT_DIR$/src/test/java/test_SanityCheck/Test_SearchReportBy_DateRange.java" />
         <option value="$PROJECT_DIR$/src/test/java/test_SanityCheck/Test_subscribeLink_Profile_Panel.java" />
         <option value="$PROJECT_DIR$/src/test/java/test_SanityCheck/Test_SAU_CompanyCreation.java" />
@@ -102,8 +99,6 @@
         <option value="$PROJECT_DIR$/src/test/java/test_SAU/TestAddEntity.java" />
         <option value="$PROJECT_DIR$/src/main/java/helper/CleanUp_Entity.java" />
         <option value="$PROJECT_DIR$/src/main/java/pages/SAU_CompanyCreation.java" />
-        <option value="$PROJECT_DIR$/src/test/java/test_SanityCheck/Test_Create_SubDepartment.java" />
-        <option value="$PROJECT_DIR$/src/test/java/test_SanityCheck/Test_Edit_SubDepartment.java" />
         <option value="$PROJECT_DIR$/src/test/java/test_SanityCheck/Test_ForgotPassword_Link.java" />
         <option value="$PROJECT_DIR$/src/main/java/pages/Car.java" />
         <option value="$PROJECT_DIR$/src/main/java/pages/Bmw.java" />
@@ -118,17 +113,22 @@
         <option value="$PROJECT_DIR$/src/test/java/test_RU/Test_RU_Login.java" />
         <option value="$PROJECT_DIR$/src/test/java/test/BaseClass.java" />
         <option value="$PROJECT_DIR$/src/test/java/test/Test_Login.java" />
-        <option value="$PROJECT_DIR$/src/test/java/test_SanityCheck/Test_Delete_SubDepartment.java" />
         <option value="$PROJECT_DIR$/src/main/java/sanityCheck/SearchReportBy_PublishedDate.java" />
         <option value="$PROJECT_DIR$/src/test/java/test_SanityCheck/Test_SearchReportBy_PublishedDate.java" />
         <option value="$PROJECT_DIR$/src/main/java/sanityCheck/SearchReportBy_SubjectType.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sanityCheck/Add_Report.java" />
         <option value="$PROJECT_DIR$/src/test/java/test_SanityCheck/Test_SerachReportBy_SubjectType.java" />
         <option value="$PROJECT_DIR$/src/main/java/helper/Sub_Dept_Helper.java" />
         <option value="$PROJECT_DIR$/src/main/java/sanityCheck/SearchReportBy_DateRange.java" />
         <option value="$PROJECT_DIR$/src/test/java/test_SanityCheck/Test_ProfileSubscribeLink_ChangeSubscription.java" />
         <option value="$PROJECT_DIR$/src/main/java/helper/Subscription_Helper.java" />
         <option value="$PROJECT_DIR$/src/test/java/test_SanityCheck/Test_ProfileSubscribeLink_CancelSubscription.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sanityCheck/Add_Report.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/Test_Car.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pages/pages_RU/CleanUp_Entity.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test_SanityCheck/Test_Create_SubDepartment.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test_SanityCheck/Test_Delete_SubDepartment.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test_SanityCheck/Test_Edit_SubDepartment.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test_SanityCheck/Test_Logo_Leads_Reports.java" />
       </list>
     </option>
   </component>
@@ -392,7 +392,13 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../webdriverbasics" />
     <property name="ToolWindowDebug.ShowToolbar" value="false" />
   </component>
-  <component name="RunManager" selected="TestNG.Test_ProfileSubscribeLink_CancelSubscription.verifyCancel_Subscription">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="pages.pages_RU" />
+      <recent name="test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.Test_Logo_Leads_Reports">
     <configuration default="false" name="Test_SerachReportBy_SubjectType" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -409,39 +415,6 @@
       <option name="METHOD_NAME" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-      <method />
-    </configuration>
-    <configuration default="false" name="Test_ProfileSubscribeLink_ChangeSubscription.verifyChange_Subscription" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="test_SanityCheck.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="WaveProject" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="test_SanityCheck" />
-      <option name="MAIN_CLASS_NAME" value="test_SanityCheck.Test_ProfileSubscribeLink_ChangeSubscription" />
-      <option name="METHOD_NAME" value="verifyChange_Subscription" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -541,6 +514,39 @@
       <option name="METHOD_NAME" value="verifyCancel_Subscription" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="false" name="Test_Logo_Leads_Reports" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="test_SanityCheck.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="WaveProject" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="test_SanityCheck" />
+      <option name="MAIN_CLASS_NAME" value="test_SanityCheck.Test_Logo_Leads_Reports" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -764,18 +770,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="TestNG.Test_SerachReportBy_SubjectType" />
-      <item index="1" class="java.lang.String" itemvalue="TestNG.Test_ProfileSubscribeLink_ChangeSubscription.verifyChange_Subscription" />
-      <item index="2" class="java.lang.String" itemvalue="TestNG.Test_SearchReportBy_PublishedDate" />
-      <item index="3" class="java.lang.String" itemvalue="TestNG.Test_SerachReportBy_SubjectType.verifySearchReportBy_Other" />
-      <item index="4" class="java.lang.String" itemvalue="TestNG.Test_ProfileSubscribeLink_CancelSubscription.verifyCancel_Subscription" />
+      <item index="1" class="java.lang.String" itemvalue="TestNG.Test_SearchReportBy_PublishedDate" />
+      <item index="2" class="java.lang.String" itemvalue="TestNG.Test_SerachReportBy_SubjectType.verifySearchReportBy_Other" />
+      <item index="3" class="java.lang.String" itemvalue="TestNG.Test_ProfileSubscribeLink_CancelSubscription.verifyCancel_Subscription" />
+      <item index="4" class="java.lang.String" itemvalue="TestNG.Test_Logo_Leads_Reports" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="TestNG.Test_ProfileSubscribeLink_CancelSubscription.verifyCancel_Subscription" />
-        <item index="1" class="java.lang.String" itemvalue="TestNG.Test_SerachReportBy_SubjectType.verifySearchReportBy_Other" />
-        <item index="2" class="java.lang.String" itemvalue="TestNG.Test_SerachReportBy_SubjectType" />
-        <item index="3" class="java.lang.String" itemvalue="TestNG.Test_SearchReportBy_PublishedDate" />
-        <item index="4" class="java.lang.String" itemvalue="TestNG.Test_ProfileSubscribeLink_ChangeSubscription.verifyChange_Subscription" />
+        <item index="0" class="java.lang.String" itemvalue="TestNG.Test_Logo_Leads_Reports" />
+        <item index="1" class="java.lang.String" itemvalue="TestNG.Test_ProfileSubscribeLink_CancelSubscription.verifyCancel_Subscription" />
+        <item index="2" class="java.lang.String" itemvalue="TestNG.Test_SerachReportBy_SubjectType.verifySearchReportBy_Other" />
+        <item index="3" class="java.lang.String" itemvalue="TestNG.Test_SerachReportBy_SubjectType" />
+        <item index="4" class="java.lang.String" itemvalue="TestNG.Test_SearchReportBy_PublishedDate" />
       </list>
     </recent_temporary>
   </component>
@@ -793,6 +799,9 @@
     <servers />
   </component>
   <component name="TestHistory">
+    <history-entry file="Test_Logo_Leads_Reports - 2017.04.12 at 16h 07m 48s.xml">
+      <configuration name="Test_Logo_Leads_Reports" configurationId="TestNG" />
+    </history-entry>
     <history-entry file="Test_ProfileSubscribeLink_CancelSubscription_verifyCancel_Subscription - 2017.04.11 at 14h 27m 25s.xml">
       <configuration name="Test_ProfileSubscribeLink_CancelSubscription.verifyCancel_Subscription" configurationId="TestNG" />
     </history-entry>
@@ -810,9 +819,6 @@
     </history-entry>
     <history-entry file="Test_ProfileSubscribeLink_CancelSubscription_verifyCancel_Subscription - 2017.04.11 at 15h 33m 12s.xml">
       <configuration name="Test_ProfileSubscribeLink_CancelSubscription.verifyCancel_Subscription" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Test_SerachReportBy_SubjectType - 2017.04.11 at 11h 51m 11s.xml">
-      <configuration name="Test_SerachReportBy_SubjectType" configurationId="TestNG" />
     </history-entry>
     <history-entry file="Test_SerachReportBy_SubjectType_verifySearchReportBy_Other - 2017.04.11 at 11h 52m 18s.xml">
       <configuration name="Test_SerachReportBy_SubjectType.verifySearchReportBy_Other" configurationId="TestNG" />
@@ -847,12 +853,13 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34276387" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4983678" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24945888" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32861805" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -864,7 +871,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -919,52 +925,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/helper/View_ReportHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="19" column="28" lean-forward="false" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
-          <folding>
-            <element signature="e#529#530#0" expanded="false" />
-            <element signature="e#563#564#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/test_RU/TestRU_ViewReport.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="44" column="36" lean-forward="true" selection-start-line="44" selection-start-column="36" selection-end-line="44" selection-end-column="36" />
-          <folding>
-            <element signature="e#873#874#0" expanded="false" />
-            <element signature="e#903#904#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pages/AddSubDepartment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2050">
-          <caret line="87" column="0" lean-forward="true" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pages/InviteUser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-147">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/test_SAU/TestInviteUser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="800">
-          <caret line="43" column="36" lean-forward="true" selection-start-line="43" selection-start-column="36" selection-end-line="43" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/test_SAU/TestAddSubDept.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="800">
@@ -1044,14 +1004,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="725">
           <caret line="44" column="6" lean-forward="true" selection-start-line="44" selection-start-column="6" selection-end-line="44" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/helper/CleanUp_Entity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="725">
-          <caret line="38" column="9" lean-forward="false" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
           <folding />
         </state>
       </provider>
@@ -1219,26 +1171,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/test_SanityCheck/Test_Logo_Leads_Reports.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="54" column="24" lean-forward="true" selection-start-line="54" selection-start-column="24" selection-end-line="54" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/test_SanityCheck/Test_SearchReportBy_CreatedDate.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="251">
           <caret line="26" column="3" lean-forward="true" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/test_SanityCheck/Test_Delete_SubDepartment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="93" column="44" lean-forward="false" selection-start-line="93" selection-start-column="31" selection-end-line="93" selection-end-column="44" />
           <folding />
         </state>
       </provider>
@@ -1254,34 +1190,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/test_SanityCheck/Test_Create_SubDepartment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="42" column="30" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sanityCheck/Add_Report.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2332">
-          <caret line="65" column="0" lean-forward="true" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/test_SanityCheck/Test_SerachReportBy_SubjectType.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="311">
           <caret line="41" column="21" lean-forward="false" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sanityCheck/Logo_lead_Reports.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding />
         </state>
       </provider>
@@ -1298,14 +1210,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1525">
           <caret line="71" column="37" lean-forward="false" selection-start-line="71" selection-start-column="37" selection-end-line="71" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/helper/Subscription_Helper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="71" column="25" lean-forward="false" selection-start-line="71" selection-start-column="25" selection-end-line="71" selection-end-column="25" />
           <folding />
         </state>
       </provider>
@@ -1334,26 +1238,122 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/test_SanityCheck/Test_Edit_SubDepartment.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/sanityCheck/Logo_lead_Reports.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="91" column="48" lean-forward="true" selection-start-line="91" selection-start-column="48" selection-end-line="91" selection-end-column="48" />
+        <state relative-caret-position="175">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/helper/Sub_Dept_Helper.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pages/pages_RU/CleanUp_Entity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="102" column="0" lean-forward="true" selection-start-line="102" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test/Test_Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sanityCheck/Add_Report.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/helper/View_ReportHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/helper/Subscription_Helper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1725">
+          <caret line="71" column="25" lean-forward="false" selection-start-line="71" selection-start-column="25" selection-end-line="71" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/helper/CleanUp_Entity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="626">
+          <caret line="38" column="9" lean-forward="false" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/helper/AddReportHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/test_SanityCheck/Test_ProfileSubscribeLink_CancelSubscription.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-682">
+        <state relative-caret-position="1200">
           <caret line="63" column="55" lean-forward="false" selection-start-line="63" selection-start-column="55" selection-end-line="63" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/helper/Sub_Dept_Helper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2425">
+          <caret line="102" column="0" lean-forward="true" selection-start-line="102" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test_SanityCheck/Test_Create_SubDepartment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="22" column="19" lean-forward="false" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test_SanityCheck/Test_Delete_SubDepartment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="16" column="19" lean-forward="false" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test_SanityCheck/Test_Edit_SubDepartment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="16" column="19" lean-forward="false" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test_SanityCheck/Test_Logo_Leads_Reports.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-300">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
