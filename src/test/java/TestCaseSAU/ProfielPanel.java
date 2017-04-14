@@ -30,16 +30,16 @@ public class ProfielPanel {
        Thread.sleep(4000);
         pageResources.getLoginPage().password().sendKeys("Kamran12345");
         Thread.sleep(4000);
-            String color = pageResources.getLoginPage().SignIn().getCssValue("color");
-            String[] hexValue = color.replace("rgba(", "").replace(")", "").split(",");
-            int hexValue1=Integer.parseInt(hexValue[0]);
-            hexValue[1] = hexValue[1].trim();
-            int hexValue2=Integer.parseInt(hexValue[1]);
-            hexValue[2] = hexValue[2].trim();
-            int hexValue3=Integer.parseInt(hexValue[2]);
-            String actualColor = String.format("#%02x%02x%02x", hexValue1, hexValue2, hexValue3);
-            System.out.print("The color is:"+actualColor);
-            pageResources.getLoginPage().SignIn().click();
+//            String color = pageResources.getLoginPage().SignIn().getCssValue("color");
+//            String[] hexValue = color.replace("rgba(", "").replace(")", "").split(",");
+//            int hexValue1=Integer.parseInt(hexValue[0]);
+//            hexValue[1] = hexValue[1].trim();
+//            int hexValue2=Integer.parseInt(hexValue[1]);
+//            hexValue[2] = hexValue[2].trim();
+//            int hexValue3=Integer.parseInt(hexValue[2]);
+//            String actualColor = String.format("#%02x%02x%02x", hexValue1, hexValue2, hexValue3);
+//            System.out.print("The color is:"+actualColor);
+//            pageResources.getLoginPage().SignIn().click();
 
     }
 
