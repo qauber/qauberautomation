@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="3" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="234899" started-at="2017-05-29T06:07:22Z" finished-at="2017-05-29T06:11:17Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="234899" started-at="2017-05-29T06:07:22Z" finished-at="2017-05-29T06:11:17Z">
+      <class name="AddReportExcelDataTest">
+        <test-method status="PASS" signature="setupDriver(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:AddReportExcelDataTest@2af617c4]" name="setupDriver" duration-ms="120942" started-at="2017-05-28T23:07:22Z" data-provider="giveDesiredCapabilities" finished-at="2017-05-28T23:09:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[58]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Windows 10]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[800x600]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Marty]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Gary]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Blade]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Santa Clara]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method status="PASS" signature="setupDriver(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:AddReportExcelDataTest@2af617c4]" name="setupDriver" duration-ms="113745" started-at="2017-05-28T23:09:23Z" data-provider="giveDesiredCapabilities" finished-at="2017-05-28T23:11:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[51]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Windows 8]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[800x600]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Steve]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[John]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Google]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[San Jose]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+      </class> <!-- AddReportExcelDataTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
